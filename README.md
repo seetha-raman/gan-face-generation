@@ -5,7 +5,7 @@ from a **latent vector z (random uniform distribution in [0,1])**.
 
 
 Below are some samples of newly generated faces:
-<img src="gan-generated-faces-result.jpg">
+<img src="gan-generated-faces-result.png">
 
 
 There are 2 main components of this model:
@@ -39,4 +39,4 @@ Datasets necessary for this implementation can be downloaded by clicking [here](
 * Initial Learning Rate, [beta1, beta2] = **0.0002, [0.5, 0.999]**  
 
 Below are some samples of newly generated faces progress by epoch:
-<img src="gan-generated-faces-epochs.jpg">
+<img src="gan-generated-faces-epochs.png">
